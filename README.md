@@ -1,17 +1,5 @@
 # Project Chronos: The AI Archeologist
 
-###Student Info
-Name: K. Bhanutej 
-ID: SE24UMCS036
-
-Name: C. Vivek
-ID: SE24UMCS002
-
-Name: G. Saanvi Rao
-ID: SE25UDSC014
-
-
-
 ---
 
 ##Project Description
